@@ -1,2 +1,0 @@
-# larastrap
-Larastrap with bootstrap
