@@ -1,0 +1,1 @@
+@extends('modern_business.base.base')
